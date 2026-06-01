@@ -1,0 +1,7 @@
+chainlit
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+duckduckgo-search
+sqlalchemy

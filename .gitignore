@@ -1,0 +1,25 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chainlit
+.chainlit/
+
+# Old files
+sales.db
+create_db.py
